@@ -5,3 +5,5 @@ Sample Text
 ## This is my a other Header as H2
 
 Sample Text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
